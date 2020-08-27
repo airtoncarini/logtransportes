@@ -1,0 +1,1 @@
+INSERT INTO USUARIO (name,email,password) VALUES ('airton','airton@totvs.com.br','$2a$10$Cmc8qrqGkR/aG7qBe8l1GeIZixREOBqzKitWeJVkFOIt.22HwsLkC');
